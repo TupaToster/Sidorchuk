@@ -3,3 +3,8 @@
 Создается ветка при  помощи команды:
 `git branch name_for_branch`
 
+Переключаемся на другую ветку:
+`git checkout name_for_branch`
+
+Что-то пишем, а потом отправляем коммит на сервер:
+`git push --set-upstream branch_way`
