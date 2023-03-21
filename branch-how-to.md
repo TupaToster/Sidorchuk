@@ -1,7 +1,5 @@
-git branch branch_name
+`branch` - по-нашему ветка, указатель на фиксированную версию в локальном или удаленном репозитории.
 
-git checkout branch_name
+Создается ветка при  помощи команды:
+`git branch name_for_branch`
 
-git push --set-upstream your branch way
-
-it was complete from the start...
